@@ -1,6 +1,6 @@
 # Accessibility Quiz
 
-An HTML and CSS project I worked on to show case Accessibility on web page
+An HTML and CSS project I worked on to show case Accessibility skills on web page
 
 ## Preview
 
